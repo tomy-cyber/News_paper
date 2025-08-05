@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Global Leaders Convene for Climate Summit",
+    "description": "Representatives from 190 countries gather in Geneva to outline new carbon reduction targets.",
+    "image": "https://images.unsplash.com/photo-1502303756-c3971d5d4c55?auto=format&fit=crop&w=800&q=60",
+    "link": "https://example.com/climate-summit",
+    "category": "World"
+  },
+  {
+    "title": "Election Reform Bill Passes in South American Nation",
+    "description": "The sweeping legislation aims to increase transparency and voter participation ahead of next year's polls.",
+    "image": "https://images.unsplash.com/photo-1555967525-5133c0713c1a?auto=format&fit=crop&w=800&q=60",
+    "link": "https://example.com/election-reform",
+    "category": "Politics"
+  },
+  {
+    "title": "Tech Giants Invest in Quantum Computing Startups",
+    "description": "Major industry players announce funding rounds to accelerate development of quantum hardware.",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=60",
+    "link": "https://example.com/quantum-computing",
+    "category": "Technology"
+  },
+  {
+    "title": "New Wellness Trends Embrace Digital Detox",
+    "description": "Health experts promote screen-free weekends to combat burnout in urban centers worldwide.",
+    "image": "https://images.unsplash.com/photo-1514996937319-344454492b37?auto=format&fit=crop&w=800&q=60",
+    "link": "https://example.com/digital-detox",
+    "category": "Health"
+  },
+  {
+    "title": "Renewable Energy Investments Hit Record High",
+    "description": "A surge in solar and wind projects pushes global investment beyond previous milestones.",
+    "image": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=800&q=60",
+    "link": "https://example.com/renewable-energy",
+    "category": "Business"
+  },
+  {
+    "title": "Archaeologists Unearth Ancient City in the Sahara",
+    "description": "The discovery sheds light on trade routes that flourished thousands of years ago.",
+    "image": "https://images.unsplash.com/photo-1506197603052-3cc9c3a201bd?auto=format&fit=crop&w=800&q=60",
+    "link": "https://example.com/ancient-city",
+    "category": "World"
+  }
+]

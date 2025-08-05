@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Global Gazette</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1 class="logo">Global Gazette</h1>
+    <button id="menu-toggle" aria-label="Toggle navigation">&#9776;</button>
+    <nav class="site-nav">
+      <ul>
+        <li><a href="#" data-category="All">Home</a></li>
+        <li><a href="#" data-category="World">World</a></li>
+        <li><a href="#" data-category="Politics">Politics</a></li>
+        <li><a href="#" data-category="Business">Business</a></li>
+        <li><a href="#" data-category="Technology">Technology</a></li>
+        <li><a href="#" data-category="Health">Health</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="top-story" class="hero"></section>
+    <section id="articles" class="articles-grid"></section>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; <span id="year"></span> Global Gazette. All rights reserved.</p>
+  </footer>
+
+  <script src="scripts.js"></script>
+</body>
+</html>
